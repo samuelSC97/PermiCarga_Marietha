@@ -1,0 +1,23 @@
+# Resultados de compilacion
+clases/
+fat/
+*.jar
+!lib/*.jar
+fuentes.txt
+manifiesto.txt
+
+# Archivos del entorno de desarrollo
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+nbproject/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuracion con credenciales reales
+config.local.properties
